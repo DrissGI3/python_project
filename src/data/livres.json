@@ -1,0 +1,274 @@
+{
+   "978-2-01-155271-6": {
+      "titre": "Programmation Python Moderne",
+      "auteur": "Omar El Fadili",
+      "annee": 2022,
+      "genre": "Informatique",
+      "quantite": 50,
+      "est_supprimer": "False"
+   },
+   "978-2-03-584725-9": {
+      "titre": "Exploration de l'IA",
+      "auteur": "Lina Berrada",
+      "annee": 2023,
+      "genre": "Technologie",
+      "quantite": 20,
+      "est_supprimer": "False"
+   },
+   "978-2-07-036822-8": {
+      "titre": "Machine Learning: Notions Cl\u00c3\u00a9s",
+      "auteur": "Nabil Karim",
+      "annee": 200,
+      "genre": "ml",
+      "quantite": 0,
+      "est_supprimer": "False"
+   },
+   "978-0-14-143960-0": {
+      "titre": "Fiert\u00c3\u00a9 et Pr\u00c3\u00a9jug\u00c3\u00a9s",
+      "auteur": "Claire Fontaine",
+      "annee": 1813,
+      "genre": "Classique",
+      "quantite": 0,
+      "est_supprimer": "False"
+   },
+   "978-2-290-00137-7": {
+      "titre": "Enqu\u00c3\u00aate \u00c3\u00a0 King's Abbot",
+      "auteur": "Marc Duval",
+      "annee": 1926,
+      "genre": "Policier",
+      "quantite": 4,
+      "est_supprimer": "False"
+   },
+   "978-1-56619-909-4": {
+      "titre": "Intelligence Profonde",
+      "auteur": "Karim Amine",
+      "annee": 2021,
+      "genre": "Informatique",
+      "quantite": 6,
+      "est_supprimer": "False"
+   },
+   "978-2-226-47751-6": {
+      "titre": "La Colonie des Insectes",
+      "auteur": "Hassan Meziane",
+      "annee": 1991,
+      "genre": "Science-fiction",
+      "quantite": 9,
+      "est_supprimer": "False"
+   },
+   "978-2-330-06008-2": {
+      "titre": "Une Nouvelle Vie",
+      "auteur": "Sara Mansouri",
+      "annee": 2015,
+      "genre": "Developpement personnel",
+      "quantite": 3,
+      "est_supprimer": "False"
+   },
+   "978-2-7467-2530-9": {
+      "titre": "Histoire de l'Humanit\u00c3\u00a9",
+      "auteur": "Walid Ben Harith",
+      "annee": 2011,
+      "genre": "Histoire",
+      "quantite": 5,
+      "est_supprimer": "False"
+   },
+   "978-2-01-203780-0": {
+      "titre": "L'Inconnu",
+      "auteur": "Nora Belkacem",
+      "annee": 1942,
+      "genre": "Philosophie",
+      "quantite": 7,
+      "est_supprimer": "False"
+   },
+   "978-2-070-25380-9": {
+      "titre": "Le Destin des Justes",
+      "auteur": "Ismail Boukhris",
+      "annee": 1862,
+      "genre": "Roman historique",
+      "quantite": 6,
+      "est_supprimer": "False"
+   },
+   "978-2-234-05723-6": {
+      "titre": "Le Monde de Demain",
+      "auteur": "Zineb Raji",
+      "annee": 1949,
+      "genre": "Dystopie",
+      "quantite": 4,
+      "est_supprimer": "False"
+   },
+   "978-2-221-14088-2": {
+      "titre": "Epidemie",
+      "auteur": "Ali Chraibi",
+      "annee": 1947,
+      "genre": "Philosophie",
+      "quantite": 0,
+      "est_supprimer": "True"
+   },
+   "978-2-253-18618-3": {
+      "titre": "Nuit d'Horreur",
+      "auteur": "Farid El Idrissi",
+      "annee": 1958,
+      "genre": "Memoire",
+      "quantite": 0,
+      "est_supprimer": "False"
+   },
+   "978-2-266-12158-3": {
+      "titre": "Bonheur Retrouv\u00c3\u00a9",
+      "auteur": "Imane Kaddouri",
+      "annee": 2015,
+      "genre": "Roman",
+      "quantite": 6,
+      "est_supprimer": "False"
+   },
+   "978-2-253-07107-6": {
+      "titre": "Regards d'Enfance",
+      "auteur": "Tariq Nasri",
+      "annee": 1975,
+      "genre": "Roman",
+      "quantite": 7,
+      "est_supprimer": "False"
+   },
+   "978-2-253-07418-3": {
+      "titre": "L'Ombre",
+      "auteur": "Layla Mezouar",
+      "annee": 1887,
+      "genre": "Fantastique",
+      "quantite": 4,
+      "est_supprimer": "False"
+   },
+   "978-2-07-036053-6": {
+      "titre": "Le Voyageur",
+      "auteur": "Nadir Lahcen",
+      "annee": 1988,
+      "genre": "Philosophie",
+      "quantite": 9,
+      "est_supprimer": "False"
+   },
+   "978-2-330-07687-8": {
+      "titre": "Jardin des Souvenirs",
+      "auteur": "Myriam Said",
+      "annee": 2018,
+      "genre": "Contemporain",
+      "quantite": 5,
+      "est_supprimer": "False"
+   },
+   "978-2-07-061374-7": {
+      "titre": "Nations Oubli\u00c3\u00a9es",
+      "auteur": "Hamza Ghali",
+      "annee": 2016,
+      "genre": "Roman",
+      "quantite": 3,
+      "est_supprimer": "False"
+   },
+   "978-3-16-148410-0": {
+      "titre": "Les Grandes Questions",
+      "auteur": "Selma Messaoudi",
+      "annee": 1991,
+      "genre": "Philosophie",
+      "quantite": 12,
+      "est_supprimer": "False"
+   },
+   "978-0-452-28423-4": {
+      "titre": "Ville en Flammes",
+      "auteur": "Mohammed Azami",
+      "annee": 1953,
+      "genre": "Science-fiction",
+      "quantite": 7,
+      "est_supprimer": "False"
+   },
+   "978-0-7432-7356-5": {
+      "titre": "Les Secrets du Vatican",
+      "auteur": "Aya Belhaj",
+      "annee": 2000,
+      "genre": "Thriller",
+      "quantite": 5,
+      "est_supprimer": "False"
+   },
+   "978-2-07-036053-7": {
+      "titre": "Le Journal de Nico",
+      "auteur": "Rami Goscinny",
+      "annee": 1959,
+      "genre": "Jeunesse",
+      "quantite": 9,
+      "est_supprimer": "False"
+   },
+   "978-0-375-50420-1": {
+      "titre": "L'Art de Vivre",
+      "auteur": "Nadia Coelho",
+      "annee": 1988,
+      "genre": "Philosophie",
+      "quantite": 10,
+      "est_supprimer": "False"
+   },
+   "978-1-4000-3341-6": {
+      "titre": "Les Destins Crois\u00c3\u00a9s",
+      "auteur": "Selim Dicker",
+      "annee": 2015,
+      "genre": "Roman",
+      "quantite": 8,
+      "est_supprimer": "False"
+   },
+   "978-2-08-067482-2": {
+      "titre": "L'\u00c3\u2030nigme de Quebert",
+      "auteur": "Youssef Dicker",
+      "annee": 2012,
+      "genre": "Roman policier",
+      "quantite": 4,
+      "est_supprimer": "False"
+   },
+   "978-0-679-74558-7": {
+      "titre": "L'H\u00c3\u00a9ritage de l'Anneau",
+      "auteur": "J.K. Tholken",
+      "annee": 1954,
+      "genre": "Fantasy",
+      "quantite": 6,
+      "est_supprimer": "False"
+   },
+   "978-0-7434-7712-3": {
+      "titre": "Myst\u00c3\u00a8re L\u00c3\u00a9onard",
+      "auteur": "Karim Brown",
+      "annee": 2003,
+      "genre": "Thriller",
+      "quantite": 11,
+      "est_supprimer": "False"
+   },
+   "978-2-07-061374-8": {
+      "titre": "Le Petit Prince (Ill.)",
+      "auteur": "Antoine Saint-Ex",
+      "annee": 1943,
+      "genre": "Roman",
+      "quantite": 7,
+      "est_supprimer": "False"
+   },
+   "4578": {
+      "titre": "Le Code Sacr\u00c3\u00a9",
+      "auteur": "Sami Khalil",
+      "annee": 4578,
+      "genre": "Roman",
+      "quantite": 52,
+      "est_supprimer": "False"
+   },
+   "45788": {
+      "titre": "La Derni\u00c3\u00a8re Proph\u00c3\u00a9tie",
+      "auteur": "Nada Tazi",
+      "annee": 4578,
+      "genre": "Roman",
+      "quantite": 0,
+      "est_supprimer": "True"
+   },
+   "009": {
+      "titre": "JHH",
+      "auteur": "TD",
+      "annee": 2004,
+      "genre": "roman",
+      "quantite": 0,
+      "est_supprimer": "False"
+   },
+   "978-2-07-036822-7": {
+      "titre": "C++",
+      "auteur": "Ahmed khalid",
+      "annee": 2004,
+      "genre": "informatique",
+      "quantite": 450,
+      "est_supprimer": "False"
+   }
+}

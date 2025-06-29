@@ -1,0 +1,204 @@
+{
+    "M001": {
+        "nom": "frank luis",
+        "livre_empruntes": [
+            "978-0-14-143960-0",
+            "978-2-07-036822-8",
+            "978-2-01-155271-6",
+            "978-2-03-584725-9"
+        ],
+        "historique_livre_emprunte": [
+            "978-2-01-155271-6",
+            "978-2-03-584725-9",
+            "978-0-14-143960-0",
+            "978-2-07-036822-8",
+            "978-2-290-00137-7",
+            "4578"
+        ]
+    },
+    "M002": {
+        "nom": "driss lahoua",
+        "livre_empruntes": [
+            "978-0-14-143960-0",
+            "978-2-07-036822-8",
+            "978-2-01-155271-6",
+            "978-2-03-584725-9"
+        ],
+        "historique_livre_emprunte": [
+            "978-2-07-036822-8",
+            "978-0-14-143960-0",
+            "978-2-01-155271-6",
+            "978-2-03-584725-9"
+        ]
+    },
+    "M003": {
+        "nom": "Yassine Bouziane",
+        "livre_empruntes": [
+            "978-0-14-143960-0"
+        ],
+        "historique_livre_emprunte": [
+            "978-0-14-143960-0"
+        ]
+    },
+    "M004": {
+        "nom": "Imane El Fassi",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": []
+    },
+    "M005": {
+        "nom": "Omar Ait Taleb",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": []
+    },
+    "M006": {
+        "nom": "Lina Benali",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": []
+    },
+    "M007": {
+        "nom": "Rachid El Alami",
+        "livre_empruntes": [
+            "978-2-290-00137-7"
+        ],
+        "historique_livre_emprunte": [
+            "978-2-290-00137-7"
+        ]
+    },
+    "M008": {
+        "nom": "Nadia Chakir",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": [
+            "978-2-07-036822-8",
+            "978-2-330-06008-2"
+        ]
+    },
+    "M009": {
+        "nom": "Soufiane El Idrissi",
+        "livre_empruntes": [
+            "978-2-03-584725-9"
+        ],
+        "historique_livre_emprunte": [
+            "978-2-03-584725-9"
+        ]
+    },
+    "M010": {
+        "nom": "Hajar Tazi",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": [
+            "978-2-01-155271-6"
+        ]
+    },
+    "M011": {
+        "nom": "Rania Amrani",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": [
+            "978-1-56619-909-4"
+        ]
+    },
+    "M012": {
+        "nom": "Hamza Nait",
+        "livre_empruntes": [
+            "978-2-226-47751-6"
+        ],
+        "historique_livre_emprunte": [
+            "978-2-226-47751-6"
+        ]
+    },
+    "M013": {
+        "nom": "Fatima Zohra Bakkali",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": [
+            "978-2-7467-2530-9"
+        ]
+    },
+    "M014": {
+        "nom": "Adil Ouakrim",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": []
+    },
+    "M015": {
+        "nom": "Salma Mahdaoui",
+        "livre_empruntes": [
+            "978-2-07-036053-6"
+        ],
+        "historique_livre_emprunte": [
+            "978-2-07-036053-6"
+        ]
+    },
+    "M016": {
+        "nom": "Karim Belkacem",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": []
+    },
+    "M017": {
+        "nom": "Amina Raji",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": [
+            "978-2-253-07418-3"
+        ]
+    },
+    "M018": {
+        "nom": "Ismail Zniber",
+        "livre_empruntes": [
+            "978-2-330-07687-8"
+        ],
+        "historique_livre_emprunte": [
+            "978-2-330-07687-8"
+        ]
+    },
+    "M019": {
+        "nom": "Nada Kabbaj",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": [
+            "978-2-253-07107-6"
+        ]
+    },
+    "M020": {
+        "nom": "Youssef Skalli",
+        "livre_empruntes": [
+            "978-2-07-061374-7"
+        ],
+        "historique_livre_emprunte": [
+            "978-2-07-061374-7"
+        ]
+    },
+    "lk": {
+        "nom": "",
+        "livre_empruntes": [
+            "4578"
+        ],
+        "historique_livre_emprunte": [
+            "4578"
+        ]
+    },
+    "45-88": {
+        "nom": "54",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": []
+    },
+    "45": {
+        "nom": "54",
+        "livre_empruntes": [
+            "4578"
+        ],
+        "historique_livre_emprunte": [
+            "4578"
+        ]
+    },
+    "54": {
+        "nom": "54",
+        "livre_empruntes": [
+            "4578"
+        ],
+        "historique_livre_emprunte": [
+            "4578"
+        ]
+    },
+    "M321": {
+        "nom": "karim H",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": [
+            "4578"
+        ]
+    }
+}
